@@ -1,1 +1,1 @@
-# leetcode
+My solutions for some leetcode excercises
